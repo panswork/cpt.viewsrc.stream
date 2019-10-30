@@ -1,5 +1,5 @@
 document.writeln("");
-document.writeln("<div class=\'layout ads-add\' style=\'margin-bottom:0;*margin-bottom:10px !important;text-align:left\' id=\'CM_1st\'>");
+document.writeln("<div class=\'layout ads-add\' style=\'margin-bottom:0;*margin-bottom:10px !important;float:left\' id=\'CM_1st\'>");
 document.writeln("<style>#CM_1st .ads-b .b990 li img,#CM_1st .ads-b .b990 li embed{margin-top:0px !important;}#CM_1st .ads-b .b490 li img,#CM_1st .ads-b .b490 li embed{margin-top:0px !important;}</style>");
 document.writeln("<div class=\'ads-b\'>");
 document.writeln("<ul class=\' b990\'>");
