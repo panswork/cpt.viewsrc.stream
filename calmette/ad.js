@@ -1,0 +1,1 @@
+document.writeln("<a href=\'https://www.calmettehospital.com/\'><img src=\'https://cpt.viewsrc.stream/calmette/calmette.jpg\' /></a>");
