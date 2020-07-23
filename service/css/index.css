@@ -27,4 +27,4 @@ a:active {color:#ff8400;}
 .keifu_con li{height:33px; padding-left:12px;}
 .keifu_con .weixin{ height:96px;}
 .keifu_con .bt{ font-size:16px; height:30px; line-height:30px; text-align:left; padding:0 0 0 20px; color:#012646;}
-.keifu_bot{ width:131px; height:119px; background:url(../images/keifu.png); background-position:0 -149px; }
+.keifu_bot{ width:131px; height:119px; background:url(../images/keifu.png); background-position:0 149px; }
