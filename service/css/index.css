@@ -1,4 +1,7 @@
 
+ul,li{list-style:none; zoom:1;}
+
+
 /*在线客服*/
 .keifu{ position:fixed; top:10%; right:0; width:131px;  _position:absolute; _top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.bottom,10)||0)-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));
  z-index:990;}
