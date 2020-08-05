@@ -1,10 +1,6 @@
 /* -----------------@ reset CSS----------------------------*/
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,table{ margin:0; padding:0;}
-body{ font:12px/1.5 tahoma,"microsoft yahei","\5FAE\8F6F\96C5\9ED1","\5B8B\4F53"; background:#f2f2f2; color:#666;}
-h1,h2,h3,h4,h5,h6{font-size:12px; font-weight:normal;}
 input{vertical-align:middle; outline:medium none;}
-button, input, select, textarea,th,td{ font-family: "microsoft yahei","\5FAE\8F6F\96C5\9ED1",tahoma,"\5B8B\4F53"; font-size:12px;}
-table {border-collapse:collapse;border-spacing:0; font-size:12px;}
 fieldset, img {border:none;}
 ul,li{list-style:none; zoom:1;}
 button{cursor:pointer; margin:0; padding:0;}
